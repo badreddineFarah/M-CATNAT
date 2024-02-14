@@ -17,7 +17,7 @@ This CSV file serves as the main dataset, containing annotations for each tweet 
 
 In cases where a tweet contains multiple images, the tweet IDs are followed by numbers separated by underscores. For instance, `tweet_id_1` represents the first image in the tweet URLs list obtained from the Twitter API.
 
-### 2. `annotation_guide_v2.pdf`
+### 2. `annotation_guide_v2.html`
 
 This document presents the second version of our annotation guide. It offers instructions and examples to resolve any potential disagreements among annotators, ensuring consistency in labeling the dataset.
 
